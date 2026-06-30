@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am SuryaPrakash Pandurangi. I am a Software Engineer, currently working for Walmart Inc. I am a Full Stack Developer. I worked across various projects in Banking and Financial Services, and in retail. 
+I am SuryaPrakash Pandurangi. I am a Software Engineer, currently working for Walmart Inc. I am a Full-Stack Developer. I worked across various projects in Banking and Financial Services, and in retail. 
 
 ## Programming Languages
-Java
-Python
-Javascript
-Typescript
+- Java
+- Python
+- Javascript
+- Typescript
 
 
 <!--
