@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I am SuryaPrakash Pandurangi. I am a Software Engineer, currently working for Walmart Inc. I am a Full-Stack Developer. I worked across various projects in Banking and Financial Services, and in retail. 
 
