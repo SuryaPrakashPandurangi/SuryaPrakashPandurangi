@@ -2,7 +2,8 @@
 
 Software Engineer III @ **Walmart Inc.**, building full-stack, event-driven systems that run at retail scale. I care about clean, future-ready code, and lately I've been exploring how AI tooling can make engineering teams faster and safer.
 
-- 🔭 Currently building **CV-based order checkout** and **club-exit shrink prevention** systems (Exit Vision) for Sam's Club
+- ⚕️ **Health and Wellness - Pharmacy Fulfillment Order Management** at Walmart
+- 🔭 **CV-based Order/Shrink auditing** and **club-exit shrink prevention** systems (Exit Vision) for Sam's Club
 - 🤖 Developing AI skills using **Claude**, **Walmart Wibey**, and **Microsoft Copilot** to automate production security gates
 - 🎓 MS in Computer Science, **University of Florida** (GPA 3.66/4)
 - 🏆 President's Award and MAD Award recipient at Walmart for the Exit Vision application
