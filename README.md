@@ -56,12 +56,15 @@ At Walmart, I work on full-stack applications spanning React Native, Spring Boot
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects - Work
 
 - **Exit Vision / Receipt Check** — Event-driven Sam's Club system (React Native, Spring Boot, Spring WebFlux, Kafka, Azure Event Hub, WCNP) that lets associates audit member checkouts at exit to prevent shrink.
 - **Connected Associate** — Audio communication system for Sam's Club associates, built with Kotlin, Spring Boot, Azure, Spring Batch, and MQTT/Spring JMS.
 - **Global Security Transfer (GST)** — Large-scale asset transfer & fiduciary distribution platform for a leading Banking & Financial Services provider (Angular, Spring Boot, Spring JPA, TypeScript, Bootstrap, Pivotal Cloud Foundry).
 - **Corporate Action Driver (CAD)** — Batch processing engine running scheduled "actions" on assets, processing 10,000 rows per batch (Spring Batch, Spring Boot, Angular).
+
+### 🚀 Featured Projects - Academic
+
 - **P2P File Sharing App** — BitTorrent-protocol file sharing with choke/unchoke mechanisms, built in Java.
 - **Distributed Hash Table (Pastry Protocol)** — Self-organizing, decentralized object location & routing for large P2P systems using Akka actors (F#).
 - **Gossip & Push-Sum Simulator** — Simulated Gossip and Push-Sum algorithms for aggregate computation convergence across 1,000 nodes (F#, Akka).
